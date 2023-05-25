@@ -1,6 +1,6 @@
 ## What's this all about?
 It's GUI for testing logic operators AND and OR.
-You can check the playground deployed here: https://main--courageous-daifuku-5a772d.netlify.app/
+You can check the playground deployed here: logical-durgeshmade.netlify.app
 
 ## Getting Started
 
